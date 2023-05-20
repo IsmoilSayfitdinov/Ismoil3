@@ -1,0 +1,116 @@
+
+.Rasm1 {
+    background: gray;
+    width: 2900px;
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    border: 8px solid black;
+}
+
+.Rasm2{
+    background: white;
+    width: 500px;
+    height: 700px;
+    margin: 0 auto;
+    margin-top:100px ;
+    margin-left: 114px;
+
+}
+
+.Rasm2 img{
+    width: 500px;
+}
+
+
+.Rasm2 h1{
+    margin-left: 20px;
+}
+
+
+.Rasm2 p{
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.Rasm2 h4{
+    color: blue;
+    font-size: xx-large;
+    margin-left: 160px;
+    background: cornflowerblue;
+   margin-right: 200px;
+    padding: 11px;
+    cursor: pointer;
+}
+
+
+.Rasm3{
+    background: white;
+    width: 500px;
+    height: 700px;
+    margin: 0 auto;
+    margin-top:100px ;
+     margin-left: 20px;    
+}
+
+
+.Rasm3 img{
+    width: 500px;
+}
+
+.Rasm3 h1{
+   margin-left: 20px;
+}
+.Rasm3 p{
+
+
+    margin-left: 20px;
+    font-size: x-large;
+}
+
+.Rasm3 h4{
+    color: blue;
+    font-size: xx-large;
+    margin-left: 160px;
+    background: cornflowerblue;
+    margin-right: 200px;
+    padding: 11px;
+    cursor: pointer;
+}
+
+
+
+.Rasm4 {
+    background: white;
+    width: 500px;
+    height: 700px;
+   margin: 0 auto;
+    margin-top:100px ;
+     margin-left: 20px;
+}
+
+
+.Rasm4 img{
+    width: 500px;
+    height: 300px;
+}
+
+
+.Rasm4 h1{
+    margin-left: 20px;
+}
+
+.Rasm4 p{
+    margin-left: 20px;
+    font-size: x-large;
+}
+
+.Rasm4 h4{
+    color: blue;
+    font-size: xx-large;
+    margin-left: 160px;
+    background: cornflowerblue;
+    margin-right: 200px;
+    padding: 11px;
+    cursor: pointer;
+}
